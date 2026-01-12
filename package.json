@@ -4,7 +4,9 @@
   "description": "Clon UDEMY SASS Gulp Bootstrap",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp"
+    "dev": "gulp",
+    "build": "gulp build"
+
   },
   "author": "Juan De la torre",
   "license": "ISC",
